@@ -1,0 +1,7 @@
+2014-09-18 16:45:05,940 [Worker-198] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-09-18 16:45:12,652 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/spec/javax/faces/jboss-jsf-api_2.1_spec/2.0.1.Final/jboss-jsf-api_2.1_spec-2.0.1.Final-sources.jar
+2015-03-02 21:47:03,975 [Worker-130] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-03-02 21:47:04,296 [Worker-130] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final-sources.jar
+2015-03-04 16:15:39,011 [Worker-49] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-03-04 16:15:40,375 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/spec/javax/faces/jboss-jsf-api_2.1_spec/2.0.1.Final/jboss-jsf-api_2.1_spec-2.0.1.Final-sources.jar
+2015-03-04 16:15:57,063 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/spec/javax/faces/jboss-jsf-api_2.1_spec/2.0.1.Final/jboss-jsf-api_2.1_spec-2.0.1.Final-sources.jar
